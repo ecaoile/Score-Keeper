@@ -13,7 +13,7 @@ The following is required to run the program.
 3. A working emulator or Android phone to use the app
 
 ## Example
-![Lab 42 Screenshot](Lab42-SS1.jpg)
+![Score Keeper SS](score-keeper-SS.jpg)
 
 ## Happy Path
  - open application in Android Studio
