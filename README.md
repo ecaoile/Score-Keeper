@@ -1,5 +1,5 @@
 # Score Keeper
-Score Keeper App for Udacity's Android Basics Nanodegree Program
+Score Keeper App for Udacity's Android Basics Nanodegree Program <br />
 **Author**: Earl Jay Caoile <br />
 **Version**: 1.0.0
 
@@ -24,5 +24,5 @@ The following is required to run the program.
 
 ## Architecture
 This application was created using Android Studio 3.1.4 <br />
-*Language*: XML and Java <br />
+*Languages*: XML and Java <br />
 *Type of Applicaiton*: Android Application <br />
