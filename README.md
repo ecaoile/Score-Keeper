@@ -26,3 +26,6 @@ The following is required to run the program.
 This application was created using Android Studio 3.1.4 <br />
 *Languages*: XML and Java <br />
 *Type of Applicaiton*: Android Application <br />
+
+## Credits
+App wallpaper retrieved from the following URL: http://ww3.onvacations.co/seahawks-phone-wallpaper/
